@@ -1,10 +1,7 @@
-import "./new.css" 
 
 const demo =()=>{
   const design =(
-    <h1 id = "demo">
-      Hello
-    </h1>
+    <h1></h1>
   );
   return design;
 }
